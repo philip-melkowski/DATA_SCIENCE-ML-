@@ -1,0 +1,1 @@
+KNN used on Wisconsin breast cancer dataset available here: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
